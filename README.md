@@ -1,5 +1,5 @@
 # 💫 About Me:
--I'm currently working on Techview <br>-I’m looking to collaborate on<br>-I’m looking for help with Full stack <br>-I’m currently learning at ASM IBMR,Chinchwad<br>
+-I'm currently postgraduatein master's in Computer applications<br>-I’m looking to collaborate on<br>-I’m looking for help with Full stack and Data analytics<br>
 
 
 ## 🌐 Socials:

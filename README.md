@@ -1,5 +1,5 @@
 # 💫 About Me:
--I'm currently postgraduatein master's in Computer applications<br>-I’m looking to collaborate on<br>-I’m looking for help with Full stack and Data analytics<br>
+-I'm currently postgraduated in master's in Computer applications<br>-I’m looking to collaborate on<br>-I’m looking for help with Full stack and Data analytics<br>
 
 
 ## 🌐 Socials:
